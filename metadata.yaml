@@ -1,0 +1,29 @@
+_repo: Choice-Readings-for-the-Home-Circle_18701
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: White, Ellen Gould Harmon
+    alias: White, Ellen G. (Ellen Gould)
+    birthdate: 1827
+    deathdate: 1915
+    gutenberg_agent_id: '31602'
+    url: http://www.gutenberg.org/2009/agents/31602
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_G._White
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18701'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Devotional literature'
+- !lcsh 'Christian life -- Fiction'
+- !lcc 'BV'
+title: Choice Readings for the Home Circle
+url: http://www.gutenberg.org/ebooks/18701
