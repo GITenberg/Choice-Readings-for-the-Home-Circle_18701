@@ -13,6 +13,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18701#Choice-Readings-for-the-Home-Circle
 gutenberg_issued: '2006-06-27'
 gutenberg_type: Text
 identifiers:
